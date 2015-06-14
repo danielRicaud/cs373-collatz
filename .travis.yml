@@ -2,7 +2,6 @@
 # Rename it ".travis.yml".
 # http://docs.travis-ci.com/user/build-configuration/
 
-sudo: required
 
 language: python
 
